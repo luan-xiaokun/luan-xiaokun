@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi there, I'm Xiaokun Luan, a PhD student at Peking University
+- 🔭 I'm currently interested in trustworthy deep learning, formal modeling and verification, and component-based formal specification language
+- 📫 How to reach me: luanxiaokun@pku.edu.cn
 
 <!--
 **luan-xiaokun/luan-xiaokun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
